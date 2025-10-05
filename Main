@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         FloppHub~Bypass
 // @namespace    FloppHub Team
-// @version      2.5
+// @version      2.5.1
 // @description  Bypass ad-links using the Swagger + Silly API
 // @author       FH Team
 // @match        *://linkvertise.com/*
